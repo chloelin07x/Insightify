@@ -78,4 +78,4 @@ npm run deploy     # build and deploy to Netlify
 
 ## Team
 
-Built at BathHack by [add teammates' names/GitHub handles here].
+Built at BathHack 
